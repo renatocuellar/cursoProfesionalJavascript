@@ -1,0 +1,24 @@
+{
+  "name": "cursoprofesionaljavascript",
+  "version": "1.0.0",
+  "description": "This a complete course about javascript and we will see every aspect of the language and will become a js pros",
+  "main": "lib/MediaPlayer.js",
+  "scripts": {
+    "build": "tsc src/**/*.ts src/plugins/*.ts src/plugins/**/*.ts --outDir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Renato_Cuéllar <hola@renatocuellar.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/renatocuellar/cursoProfesionalJavascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renatocuellar/cursoProfesionalJavascript/issues"
+  },
+  "homepage": "https://github.com/renatocuellar/cursoProfesionalJavascript#readme"
+}
